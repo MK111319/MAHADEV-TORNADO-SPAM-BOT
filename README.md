@@ -29,6 +29,6 @@
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MAHADEV-TORNADO/MAHADEV-TORNADO-SPAM-BOT.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MK111319/MAHADEV-TORNADO-SPAM-BOT.git)
 ------------------------------------------------
 
